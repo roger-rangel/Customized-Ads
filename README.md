@@ -8,7 +8,7 @@
 
 ![shoe-1](https://github.com/roger-rangel/Customized-Ads/blob/main/Shoe%20Ad/shoe-1.png)
 
-<div style={display: flex, justify-content: center}>
+<div style="display: flex; justify-content: center;">
 <pre> <img src="https://github.com/roger-rangel/Customized-Ads/blob/main/Shoe%20Ad/shoe-2.png " width="300" height="400" />          <img src="https://github.com/roger-rangel/Customized-Ads/blob/main/Shoe%20Ad/shoe-2.png " width="300" height="400" /> </pre>
 </div>
 
