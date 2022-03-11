@@ -1,0 +1,90 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;,
+}
+
+body {
+    background-color: #ffccd5;
+}
+
+.banner-container {
+    margin-top: 150px;
+    display: table;
+    width: 100%;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    background: linear-gradient(-45deg, #f28482 30%, #f94144 30%, #f94144 70%, #f28482 70%);
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+
+.content {
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    font-size:1.5rem;
+    space-between: 1rem;
+    line-height: 3rem;
+    flex: 1 1 250px;
+}
+.content span {
+    font-weight: 100;
+}
+.content h3 {
+    font-size:3rem;
+}
+.content a {
+    font-size: 1rem;
+    padding: 10px 15px;
+    background-color: #fff;
+    text-decoration: none;
+    color: #f28482 ;
+}
+.content a:hover {
+    padding: 0.5rem 0.5rem;
+}
+.banner .shoe {
+    flex:1 1 250px;
+    padding:15px;
+    text-align: center;
+}
+.shoe img {
+    height: 250px;
+}
+.women {
+    margin-bottom: -2px;
+}
+
+@media (max-width: 1000px) {
+    .content {
+        font-size: 85%;
+    }
+    .women img {
+        width: 250px;
+        height: auto;
+        margin-bottom: -63px;
+        margin-right: 0.5rem;
+    }
+
+    .shoe img {
+        width: 250px;
+        height: auto;
+    }
+}
+
+@media (max-width: 790px) {
+    .women {
+        display: none;
+    }
+    .content {
+        margin-bottom: 10px;
+    }
+}
