@@ -26,7 +26,7 @@ Git clone and run in your local machine
 
 ![demo1](https://github.com/roger-rangel/Bankist-Website-Demo/blob/main/img/bankist-2.png)
 
-![demo2](https://github.com/roger-rangel/Bankist-Website-Demo/blob/main/img/bankist-3.png)
+![bankist-4](https://github.com/roger-rangel/Customized-Ads/blob/main/Bankist%20Ad%20-%201/img/bankist-4.png)
 
 
 ## Built With
