@@ -8,5 +8,6 @@
 
 ![shoe-1](https://github.com/roger-rangel/Customized-Ads/blob/main/Shoe%20Ad/shoe-1.png)
 
-![shoe-1](https://github.com/roger-rangel/Customized-Ads/blob/main/Shoe%20Ad/shoe-2.png = 250 x 250)
+<img src="https://github.com/roger-rangel/Customized-Ads/blob/main/Shoe%20Ad/shoe-2.png " width="200" height="400" />
+
 
