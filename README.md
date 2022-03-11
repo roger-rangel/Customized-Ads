@@ -7,5 +7,6 @@
 ## Shoe Ad
 
 ![shoe-1](https://github.com/roger-rangel/Customized-Ads/blob/main/Shoe%20Ad/shoe-1.png)
-![shoe-1](https://github.com/roger-rangel/Customized-Ads/blob/main/Shoe%20Ad/shoe-2.png | width=100)
+
+![shoe-1](https://github.com/roger-rangel/Customized-Ads/blob/main/Shoe%20Ad/shoe-2.png = 250 x 250)
 
