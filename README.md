@@ -8,6 +8,6 @@
 
 ![shoe-1](https://github.com/roger-rangel/Customized-Ads/blob/main/Shoe%20Ad/shoe-1.png)
 
-<img src="https://github.com/roger-rangel/Customized-Ads/blob/main/Shoe%20Ad/shoe-2.png " width="300" height="400" /> <img src="https://github.com/roger-rangel/Customized-Ads/blob/main/Shoe%20Ad/shoe-2.png " width="300" height="400" />
+<pre> <img src="https://github.com/roger-rangel/Customized-Ads/blob/main/Shoe%20Ad/shoe-2.png " width="300" height="400" />          <img src="https://github.com/roger-rangel/Customized-Ads/blob/main/Shoe%20Ad/shoe-2.png " width="300" height="400" /> </pre>
 
 
