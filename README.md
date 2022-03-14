@@ -14,6 +14,6 @@
 ## Pepsi Ad
 
 ![pepsi-1](https://github.com/roger-rangel/Customized-Ads/blob/main/Pepsi%20Ad/pepsi-1.png)
-![pepsi-2](https://github.com/roger-rangel/Customized-Ads/blob/main/Pepsi%20Ad/pepsi-1.png)
+![pepsi-2](https://github.com/roger-rangel/Customized-Ads/blob/main/Pepsi%20Ad/pepsi-2.png)
 
 <pre>          <img src="https://github.com/roger-rangel/Customized-Ads/blob/main/Pepsi%20Ad/pepsi-iphone-1.png" width="300" height="400" />     <img src="https://github.com/roger-rangel/Customized-Ads/blob/main/Pepsi%20Ad/pepsi-iphone-2.png" width="300" height="400" />          </pre>
